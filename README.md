@@ -1,7 +1,7 @@
-# cat-bot
+# Dog-bot
 
 ## About
-cat-bot is a simple bot for posting random cat images to a discord server.
+Dog-bot is a much requested adaptation of cat-bot.
 
 I created this to learn how to use go to write a discord bot. I'll put it here in hopes that it helps someone else some day.
 
